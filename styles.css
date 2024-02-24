@@ -178,6 +178,7 @@
     pointer-events: visible;
     transition: 0.6s ease-in-out;
     animation: to-left .71s forwards;
+    padding-bottom: 10px;
   }
   
   .month-list.hideonce {
